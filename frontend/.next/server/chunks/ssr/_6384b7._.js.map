@@ -1,0 +1,9 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file://C%3A/Work/Code/Project/RiceInspectionApp/frontend/src/app/page.tsx"],"sourcesContent":["import Image from \"next/image\";\n\nexport default function Home() {\n  return (\n    <div className=\"grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]\">\n      <main className=\"flex flex-col gap-8 row-start-2 items-center sm:items-start\">\n        <ol className=\"list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]\">\n          <li className=\"mb-2\">\n            Get started by editing{\" \"}\n            <code className=\"bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-semibold\">\n              src/app/page.tsx\n            </code>\n            .\n          </li>\n          <li>Save and see your changes instantly.</li>\n        </ol>\n\n        \n      </main>\n      \n    </div>\n  );\n}\n"],"names":[],"mappings":";;;;;AAEe,SAAS;IACtB,qBACE,8OAAC;QAAI,WAAU;kBACb,cAAA,8OAAC;YAAK,WAAU;sBACd,cAAA,8OAAC;gBAAG,WAAU;;kCACZ,8OAAC;wBAAG,WAAU;;4BAAO;4BACI;0CACvB,8OAAC;gCAAK,WAAU;0CAAuE;;;;;;4BAEhF;;;;;;;kCAGT,8OAAC;kCAAG;;;;;;;;;;;;;;;;;;;;;;AAQd"}},
+    {"offset": {"line": 64, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}},
+    {"offset": {"line": 75, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":""}},
+    {"offset": {"line": 75, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}
